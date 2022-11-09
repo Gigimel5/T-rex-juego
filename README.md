@@ -1,2 +1,1 @@
-# T-rex-juego
-Grrrrrrrrrrr
+# Trex_Etapa_0
